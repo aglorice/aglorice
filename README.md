@@ -25,4 +25,4 @@ Hi ,I'm glad you're here, You can call me **aglorice**, a  **CS undergraduate** 
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
 
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ From [CallmeMehdi](https://github.com/aglorice)
