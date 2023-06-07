@@ -26,6 +26,5 @@ Hi ,I'm glad you're here, You can call me **aglorice**, a  **CS undergraduate** 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=aglorice&show_icons=true&hide_border=true)
 
 ⭐️ From [aglorice](https://github.com/aglorice)
-<code>
+
   <img src="https://visitcount.itsvg.in/api?id=aglorice&label=Profile%20Views&color=12&icon=6&pretty=false" />
-</code>
