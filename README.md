@@ -11,7 +11,7 @@ Hi ,I'm glad you're here, You can call me **aglorice**, a  **CS undergraduate** 
 - 💼 We will be together forever 😎😎😎
 - 💬 If you have some problems,I happily solve the problem in my abilities for you.
 - 📫 if you want contact to me,here is my email number aglorice@qq.com.
-- 📝 My blog https://aglorice.cn.
+- 📝 My blog [https://aglorice.cn](https://aglorice.xlog.app/).
 
 
 **Technology Stack:**  
