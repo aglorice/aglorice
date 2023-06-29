@@ -9,7 +9,7 @@ Hi ,I'm glad you're here, You can call me **aglorice**, a  **CS undergraduate** 
 - 🌱 Lerning Python,Vue and Django.
 - 🤔 I like coding,play games and watch movies.
 - 💼 We will be together forever 😎😎😎
-- 💬 If you have some problems,I happily solve the problem in my abilities for you.
+- 💬 If you have some problems,I will happily solve the problem within my abilities for you.
 - 📫 if you want contact to me,here is my email number aglorice@qq.com.
 - 📝 My blog [https://aglorice.xlog.app/](https://aglorice.xlog.app/).
 
